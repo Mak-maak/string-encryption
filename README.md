@@ -1,2 +1,2 @@
 # string-encryption
-First translate it into binary then segregate nibbles, after segregation replace low nibble pairs to each other then joins as one binary and convert it into text.
+First translate it into binary then segregate nibbles, after segregation replace low nibble pairs to each other then join as one binary and convert it into text.
