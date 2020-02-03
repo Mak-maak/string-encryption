@@ -1,0 +1,7 @@
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\bin\Debug\StringToBinary.exe.config
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\bin\Debug\StringToBinary.exe
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\bin\Debug\StringToBinary.pdb
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\obj\Debug\StringToBinary.csprojAssemblyReference.cache
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\obj\Debug\StringToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\obj\Debug\StringToBinary.exe
+C:\Users\Mak\Source\Repos\InterviewProblems\StringToBinary\obj\Debug\StringToBinary.pdb
